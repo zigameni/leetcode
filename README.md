@@ -1,6 +1,7 @@
 # leetcode
 ## Algorithms and data structures
 
+### Static Arrays
 01_remove_elem
 https://leetcode.com/problems/remove-element/
 
