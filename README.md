@@ -10,3 +10,7 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 03_shuffle_array
 https://leetcode.com/problems/shuffle-the-array/
+
+### Dynamic arrays
+04_concatenation_of_array
+https://leetcode.com/problems/concatenation-of-array/
